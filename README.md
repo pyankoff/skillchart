@@ -1,2 +1,3 @@
-<a href="pyankoff.github.io/skillchart"><h1>Skill Wheel</h1></a>
+<h1>Skill Wheel</h1>
+<a href="pyankoff.github.io/skillchart">Go</a>
 
